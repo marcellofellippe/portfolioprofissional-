@@ -2,11 +2,50 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Meu Portfólio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    p {
+      font-size: 18px;
+      color: #555;
+    }
+
+    button {
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #007BFF;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
 </head>
 <body>
   <h1>Bem-vindo ao meu Portfólio!</h1>
   <p>Este é meu site profissional.</p>
- <button>entre!</button>
+  <button onclick="entrar()">Entre!</button>
+
+  <script>
+    function entrar() {
+      window.location.href = "sobre.html"; // Substitua por uma página existente
+    }
+  </script>
 </body>
 </html>
