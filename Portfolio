@@ -1,2 +1,52 @@
-Portfólio Profissional 
-Marcelo Felipe 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Marcelo Borba - Portfólio Profissional</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Marcelo Felipe Andrade de Borba</h1>
+    <p>Bacharel em Administração • Especialista em Marketing, Geomarketing, Publicidade, Direitos Humanos</p>
+  </header>
+
+  <section id="sobre">
+    <h2>Sobre Mim</h2>
+    <p>Sou um profissional multidisciplinar com experiência em Administração, Marketing e Design Visual. Tenho uma trajetória marcada por resiliência, superação e dedicação ao desenvolvimento de projetos com impacto real.</p>
+  </section>
+
+  <section id="especializacoes">
+    <h2>Especializações</h2>
+    <ul>
+      <li>MBA em Marketing, Geomarketing e Inteligência de Mercado</li>
+      <li>Publicidade e Propaganda</li>
+      <li>Gestão Estratégica de Negócios</li>
+      <li>Empreendedorismo</li>
+      <li>Direitos Humanos</li>
+    </ul>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfólio</h2>
+    <p>Veja alguns dos meus trabalhos:</p>
+    <ul>
+      <li><a href="#">Projeto 1 – Identidade Visual</a></li>
+      <li><a href="#">Projeto 2 – Campanha de Marketing</a></li>
+      <li><a href="#">Projeto 3 – Diagnóstico de Mercado</a></li>
+    </ul>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Email: <a href="mailto:seuemail@email.com">seuemail@email.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/seuperfil" target="_blank">linkedin.com/in/seuperfil</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Marcelo Borba. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
