@@ -8,19 +8,20 @@
 </head>
 <body>
   <header>
-    <h1>Marcelo Felipe Andrade de Borba</h1>
-    <p>Bacharel em Administração • Especialista em Marketing, Geomarketing, Publicidade, Direitos Humanos</p>
+    <h1>Marcelo Felipe</h1>
+    <p>Bacharel em Administração • Especialista em Marketing</p>
   </header>
 
   <section id="sobre">
     <h2>Sobre Mim</h2>
-    <p>Sou um profissional multidisciplinar com experiência em Administração, Marketing e Design Visual. Tenho uma trajetória marcada por resiliência, superação e dedicação ao desenvolvimento de projetos com impacto real.</p>
+    <p>Sou um profissional multidisciplinar com experiência em Administração, Marketing, Design Gráfico e Comunicação Visual. Tenho uma trajetória marcada por resiliência, superação e dedicação ao desenvolvimento de projetos com impacto real.</p>
   </section>
 
   <section id="especializacoes">
     <h2>Especializações</h2>
     <ul>
-      <li>MBA em Marketing, Geomarketing e Inteligência de Mercado</li>
+      <li>MBA em Marketing<li>
+      <li>Geomarketing e Inteligência de Mercado</li>
       <li>Publicidade e Propaganda</li>
       <li>Gestão Estratégica de Negócios</li>
       <li>Empreendedorismo</li>
@@ -40,8 +41,8 @@
 
   <section id="contato">
     <h2>Contato</h2>
-    <p>Email: <a href="mailto:seuemail@email.com">seuemail@email.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/seuperfil" target="_blank">linkedin.com/in/seuperfil</a></p>
+    <p>Email: <a href="mailto:seuemail@email.com">borba_andrade@hotmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/marcelo-felipe-andrade-de-borba-b08793266" target="_blank">linkedin.com/in/seuperfil</a></p>
   </section>
 
   <footer>
